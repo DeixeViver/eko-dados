@@ -22,5 +22,5 @@ Vamos repassar alguns conceitos aqui:
 - imagens: Reúne imagens utilizadas nos notebooks;
 - notebooks: Reúne os notebooks separados por assunto. Nessa pasta temos 3 assuntos: Educação Básica, Educação Superior e Indicadores da Central Nacional de Denúncias - Safernet.
 
-Para a prática da Trilha 2 você deve abrir o notebook sobre Educação básica em uma nova sessão no Colab Reserach.
+Para a prática da Trilha 2 você deve abrir o notebook sobre Educação básica em uma nova sessão no Colab Research.
 Mais intruções sobre como fazer isso pode ser encontrado em: Link
