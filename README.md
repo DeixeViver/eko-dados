@@ -24,3 +24,18 @@ Vamos repassar alguns conceitos aqui:
 
 Para a prática da Trilha 2 você deve abrir o notebook sobre Educação básica em uma nova sessão no Colab Research.
 Mais intruções sobre como fazer isso pode ser encontrado em: Link
+
+## Algumas outras fontes de dados:
+
+- [SIDRA - IBGE](https://sidra.ibge.gov.br/home/pimpfrg/nordeste)
+- [Portal Brasileiro de Dados Abertos](http://dados.gov.br/)
+- [Brasil IO](https://brasil.io/home)
+- [API Dados Abertos da Câmara dos Deputados](https://dadosabertos.camara.leg.br/swagger/api.html) 
+- [INEP - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira](http://inep.gov.br/dados)
+Nesse link pode ser encontrado a versão mais atual do censo escolar. Bem como outras informações referentes ao ensino no Brasil.
+Na prática que fizemos utilizamos os dados de 2012 por fins didáticos, de facilidade de acesso e processamento, visto que os dados completos e mais atuais do censo tem cerca de 2G e vem de forma compactada o que torna preciso baixar os dados, descopactar e depois importar. 
+
+- [IPEA - Instituto de Pesquisa Econômica Aplicada](http://www.ipeadata.gov.br/Default.aspx)
+- [IPEA - Atlas da Violência - Homicídios Faixa Etária de 15 - 29 anos - Mulheres](http://www.ipea.gov.br/atlasviolencia/dados-series/74)
+- [IPEA - Atlas da Violência - Homicídios Faixa Etária de 15 - 29 anos - Homens](http://www.ipea.gov.br/atlasviolencia/dados-series/71)
+- [Expectativa de Vida - Organização mundial de Saúde](http://apps.who.int/gho/data/view.main.SDG2016LEXREGv?lang=en)
